@@ -1,6 +1,0 @@
-# The following are large binaries and need not be part of repo
-kube-apiserver
-kube-controller-manager
-kube-scheduler
-kubectl
-
