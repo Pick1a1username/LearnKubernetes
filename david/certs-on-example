@@ -1,2 +1,0 @@
-var/lib/kubernetes/ca.pem
-https://controller.example.com:6443
